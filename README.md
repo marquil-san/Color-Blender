@@ -98,12 +98,6 @@ plt.show()
 
 A smooth diagonal blend from **cyan → pink**:
 
-```
-╔══════════════════╗
-║ cyan ░░░░ pink   ║
-╚══════════════════╝
-```
-
----
+![Example](example.png)
 
 *Made with NumPy & Matplotlib — no extra dependencies.*
